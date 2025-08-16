@@ -131,6 +131,7 @@ docker run -p 3000:3000 -it qrcode_pix_ruby_demo
 ## Useful links
 
 * https://github.com/joseviniciusnunes/qrcode-pix
+* https://www.geradordepix.com
 * https://www.bcb.gov.br/content/estabilidadefinanceira/forumpireunioes/AnexoI-PadroesParaIniciacaodoPix.pdf
 * https://github.com/renatomb/php_qrcode_pix
 * https://www.gerarpix.com.br
