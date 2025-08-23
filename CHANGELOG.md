@@ -1,6 +1,6 @@
 ## [Unreleased]
 
-- ...
+- Added new useful link to README.md
 
 ## [0.6.0]- 2023-04-14
 
